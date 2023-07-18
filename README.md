@@ -3,7 +3,7 @@
 The project was built with the purpose of analyzing the impact and patterns of Covid-19 during the period of 2020-2023 among ASIAN countries. It focuses on the parameters of Death rates, infection rates, trends and nature of infections, vaccination rates, and their location-wise implementations. To give an overall look at the data, a dashboard was built using Tableau which is a great and a leading visualization tool
 
 
-⚒️Tools 
+⚒️TOOLS
 
 -Excel
 
@@ -12,7 +12,7 @@ The project was built with the purpose of analyzing the impact and patterns of C
 -Tableau Public
 
 
-🔗Relevant Links
+🔗RELAVANT LINKS
 
 DataSet - https://ourworldindata.org/covid-deaths
 
