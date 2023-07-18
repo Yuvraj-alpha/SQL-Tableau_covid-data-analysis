@@ -5,13 +5,13 @@ The project was built with the purpose of analyzing the impact and patterns of C
 ⚒️Tools 
 
 -Excel
+
 -MySQL Workbench
+
 -Tableau Public
 
 🔗Relevant Links
 
 DataSet - https://ourworldindata.org/covid-deaths
-
 Visualizations - https://public.tableau.com/views/CovidDataAnalysis-ASIA/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-
 MySQL Queries - https://github.com/Yuvraj-alpha/SQL-Tableau_covid-data-analysis/blob/a9809b7cb85c3f0caae9dfdafd16ab02d72d52e1/t1.sql
